@@ -120,6 +120,3 @@ Transform how the world sees the earth. Fork the repo, star the project, and let
 ***
 
 **Developed with ❤️ using open-source technologies.**
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85783263/62aaa0ac-bb43-4071-bed6-2993ac238c4a/README.md)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85783263/d2ccb8ff-f9b7-4a84-b459-7ba92e9daa86/TerrainGenerator-checkpoint.ipynb)
